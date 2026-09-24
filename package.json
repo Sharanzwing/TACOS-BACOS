@@ -1,7 +1,7 @@
 {
-  "name": "5.2-json",
+  "name": "tacos-bacos",
   "version": "1.0.0",
-  "description": "",
+  "description": "An interactive taco recipe web application built with Node.js, Express, and EJS.",
   "main": "index.js",
   "type": "module",
   "scripts": {
